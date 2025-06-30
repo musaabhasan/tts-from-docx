@@ -7,11 +7,11 @@ This script reads text from a `.docx` file and converts it to speech using Micro
 ```bash
 pip install -r requirements.txt
 
-Usage
+**## Usage**
 
 Place your .docx file in the folder and name it input.docx.
 
-Run the script:
+**Run the script:**
 
 python ttmp3.py
 The output will be saved as output.mp3.
